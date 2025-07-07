@@ -1,5 +1,5 @@
 # ❶ clone / copy the folder, then:
-cd flask_file_app
+cd Omnify
 
 # ❷ create & activate a virtual‑environment
 python -m venv venv
